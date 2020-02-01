@@ -1,0 +1,12 @@
+{
+  "meta_repo": {
+    "db_uri": "postgresql://ebonite:ebonite@35.231.19.141:5435/ebonite",
+    "type": "sqlalchemy"
+  },
+  "artifact_repo": {
+    "bucket_name": "ebonite",
+    "endpoint": "http://35.231.19.141:9000",
+    "region": "us-west-1",
+    "type": "s3"
+  }
+}
