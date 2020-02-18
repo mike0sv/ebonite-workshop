@@ -1,4 +1,4 @@
-# ebonite-pydata-workshop-01.02.20
+# ebonite-workshop
 
 1. Run the notebook
 2. train your model
